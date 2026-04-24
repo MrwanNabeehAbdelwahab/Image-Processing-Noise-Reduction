@@ -1,6 +1,6 @@
 Project Title: Digital Image Processing & Signal Analysis.
 
-Overview: Briefly explain that this project covers filtering, edge detection, and FFT-based compression.
+Overview: this project covers filtering, edge detection, and FFT-based compression.
 
 
 Technologies Used: Python, OpenCV, NumPy, Matplotlib, SciPy. 
